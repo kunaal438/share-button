@@ -1,0 +1,20 @@
+<!-- icons -->
+<i class="fas fa-share-alt"></i> - share icon 
+
+<i class="far fa-folder-open"></i> - folder icon
+#FFA654 - folder color
+
+<i class="fab fa-whatsapp"></i> - whatsapp icon
+#25D366 - whatsapp color
+
+<i class="fab fa-instagram"></i> - instagram icon
+#E4405F - instagram color
+
+<i class="fab fa-twitter"></i> - twitter icon
+#1DA1F2 - twitter color
+
+<i class="fab fa-facebook-f"></i> - facebook icon
+#1877F2 - facebook color
+
+<i class="fab fa-linkedin-in"></i> - linkedin icon
+#0A66C2 - linkedin color
